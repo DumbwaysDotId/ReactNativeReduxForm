@@ -1,0 +1,27 @@
+{
+  "name": "react-native-redux-form",
+  "version": "1.0.0",
+  "description": "Make it easier use redux form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "redux-form",
+    "redux",
+    "react-redux",
+    "react-native-ui-kitten"
+  ],
+  "author": "Isgi",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0",
+    "react": "^16.3.2",
+    "react-native": "^0.55.3"
+  }
+}
