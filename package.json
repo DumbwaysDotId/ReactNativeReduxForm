@@ -1,8 +1,8 @@
 {
-  "name": "react-native-redux-form",
-  "version": "1.0.0",
+  "name": "lasy-kitten-redux-form",
+  "version": "0.0.1",
   "description": "Make it easier use redux form",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,9 +19,13 @@
     "react": "*",
     "react-native": "*"
   },
+  "dependencies": {
+    "react-native-ui-kitten": "^3.0.0"
+  },
   "devDependencies": {
     "babel-preset-react-native": "^4.0.0",
     "react": "^16.3.2",
-    "react-native": "^0.55.3"
+    "react-native": "^0.55.3",
+    "react-native-ui-kitten": "^3.0.0"
   }
 }
