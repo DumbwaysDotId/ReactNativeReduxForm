@@ -24,6 +24,9 @@ npm install --save lazy-kitten-redux-form
 * Syntax
 
 ```
+import { LkTextInput } from 'lazy-kitten-redux-form';
+
+// in render function
 <Field
   name="name"
   component={LkTextInput}
@@ -47,6 +50,9 @@ npm install --save lazy-kitten-redux-form
 * Syntax
 
 ```
+import { LkRadioButton } from 'lazy-kitten-redux-form';
+
+//in render function
 <Field
   name="gender"
   component={LkRadioButton}
@@ -73,6 +79,9 @@ npm install --save lazy-kitten-redux-form
 * Syntax
 
 ```
+import { LkCheckbox } from 'lazy-kitten-redux-form';
+
+//in render function
 <Field
   name="hobies"
   component={LkCheckbox}
@@ -99,6 +108,9 @@ npm install --save lazy-kitten-redux-form
 * Syntax
 
 ```
+import { LkPicker } from 'lazy-kitten-redux-form';
+
+//in render function
 <Field
   name="language"
   component={LkPicker}
