@@ -1,10 +1,14 @@
 {
   "name": "lazy-kitten-redux-form",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Make it easier use redux form",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/DumbwaysDotId/lazy-kitten-redux-form",
+    "type": "git"
   },
   "keywords": [
     "react-native",

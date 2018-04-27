@@ -122,3 +122,7 @@ npm install --save lazy-kitten-redux-form
 | `items` | array of obj | yes | items for Picker |
 
   *Note: property `label` and `value` inside array of obj items is required*
+
+### Example App
+
+[https://github.com/DumbwaysDotId/example-lazy-kitten-redux-form](https://github.com/DumbwaysDotId/example-lazy-kitten-redux-form)
