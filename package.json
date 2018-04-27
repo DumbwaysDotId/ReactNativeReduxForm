@@ -1,5 +1,5 @@
 {
-  "name": "lasy-kitten-redux-form",
+  "name": "lazy-kitten-redux-form",
   "version": "0.0.1",
   "description": "Make it easier use redux form",
   "main": "src/index.js",
